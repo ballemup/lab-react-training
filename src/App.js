@@ -13,7 +13,7 @@ import ClickablePicture from './components/ClickablePicture'
 import Carousel from './components/Carousel'
 import Dice from './components/Dice'
 import NumbersTable from './components/NumbersTable'
-import FaceBook from './components/FaceBook'
+import FaceBook from './components/Facebook'
 
 function App() {
   return (

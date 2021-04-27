@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import profiles from './data/berlin.json';
+import profiles from '../data/berlin.json';
 
 console.log(profiles);
 
