@@ -17,5 +17,4 @@ function FaceBook(props) {
 
   return <div>{showProfiles()}</div>;
 }
-
 export default FaceBook;
